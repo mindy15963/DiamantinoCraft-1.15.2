@@ -1,0 +1,11 @@
+{
+    "type": "diamantinocraft:solidifying",
+    "process_time": 600,
+    "ingredient": {
+        "tag": "forge:polyethylene"
+    },
+    "result": {
+        "item": "diamantinocraft:plastic_pellets",
+        "count": 8
+    }
+}

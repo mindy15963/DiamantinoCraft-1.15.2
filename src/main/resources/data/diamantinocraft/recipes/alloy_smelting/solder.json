@@ -1,0 +1,32 @@
+{
+    "type": "diamantinocraft:alloy_smelting",
+    "process_time": 200,
+    "ingredients": [
+        {
+            "values": [
+                {
+                    "tag": "forge:dusts/gold"
+                },
+                {
+                    "tag": "forge:ingots/gold"
+                }
+            ],
+            "count": 1
+        },
+        {
+            "values": [
+                {
+                    "tag": "forge:dusts/silver"
+                },
+                {
+                    "tag": "forge:ingots/silver"
+                }
+            ],
+            "count": 1
+        }
+    ],
+    "result": {
+        "item": "diamantinocraft:solder",
+        "count": 4
+    }
+}

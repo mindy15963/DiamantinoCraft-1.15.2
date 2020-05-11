@@ -1,0 +1,19 @@
+{
+    "parent": "block/cube",
+    "display": {
+        "firstperson_righthand": {
+            "rotation": [ 0, 135, 0 ],
+            "translation": [ 0, 0, 0 ],
+            "scale": [ 0.40, 0.40, 0.40 ]
+        }
+    },
+    "textures": {
+        "particle": "diamantinocraft:block/coal_generator/front_on",
+        "down": "diamantinocraft:block/coal_generator/bottom",
+        "up": "diamantinocraft:block/coal_generator/top_on",
+        "north": "diamantinocraft:block/coal_generator/front_on",
+        "east": "diamantinocraft:block/coal_generator/side_on",
+        "south": "diamantinocraft:block/coal_generator/back",
+        "west": "diamantinocraft:block/coal_generator/side_on"
+    }
+}

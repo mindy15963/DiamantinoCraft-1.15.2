@@ -1,0 +1,18 @@
+{
+    "type": "diamantinocraft:crushing",
+    "process_time": 400,
+    "ingredient": {
+        "tag": "forge:ores/tin"
+    },
+    "results": [
+        {
+            "item": "diamantinocraft:tin_chunks",
+            "count": 2
+        },
+        {
+            "item": "minecraft:cobblestone",
+            "count": 1,
+            "chance": 0.1
+        }
+    ]
+}

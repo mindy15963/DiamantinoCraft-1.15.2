@@ -1,0 +1,18 @@
+{
+    "type": "diamantinocraft:crushing",
+    "process_time": 300,
+    "ingredient": {
+        "item": "diamantinocraft:silver_chunks"
+    },
+    "results": [
+        {
+            "item": "diamantinocraft:silver_dust",
+            "count": 1
+        },
+        {
+            "item": "diamantinocraft:silver_dust",
+            "count": 1,
+            "chance": 0.1
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "type": "diamantinocraft:drying",
+    "process_time": 400,
+    "ingredient": {
+        "item": "minecraft:chicken"
+    },
+    "result": {
+        "item": "diamantinocraft:chicken_jerky"
+    }
+}

@@ -1,0 +1,13 @@
+{
+  "type": "diamantinocraft:crushing",
+  "process_time": 200,
+  "ingredient": {
+    "tag": "forge:ingots/uranium"
+  },
+  "results": [
+    {
+      "item": "diamantinocraft:uranium_dust",
+      "count": 1
+    }
+  ]
+}

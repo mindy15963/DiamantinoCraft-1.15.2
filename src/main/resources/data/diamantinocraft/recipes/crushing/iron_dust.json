@@ -1,0 +1,18 @@
+{
+    "type": "diamantinocraft:crushing",
+    "process_time": 300,
+    "ingredient": {
+        "item": "diamantinocraft:iron_chunks"
+    },
+    "results": [
+        {
+            "item": "diamantinocraft:iron_dust",
+            "count": 1
+        },
+        {
+            "item": "diamantinocraft:iron_dust",
+            "count": 1,
+            "chance": 0.1
+        }
+    ]
+}

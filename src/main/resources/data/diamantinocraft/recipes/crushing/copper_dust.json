@@ -1,0 +1,18 @@
+{
+    "type": "diamantinocraft:crushing",
+    "process_time": 300,
+    "ingredient": {
+        "item": "diamantinocraft:copper_chunks"
+    },
+    "results": [
+        {
+            "item": "diamantinocraft:copper_dust",
+            "count": 1
+        },
+        {
+            "item": "diamantinocraft:copper_dust",
+            "count": 1,
+            "chance": 0.1
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "/I/",
+    "#S#",
+    "/I/"
+  ],
+  "key": {
+    "/": {
+      "item": "minecraft:diamond"
+    },
+    "#": {
+      "item": "diamantinocraft:black_stone"
+    },
+    "S": {
+      "tag": "diamantinocraft:stone_machine_frame"
+    },
+    "I": {
+      "tag": "forge:ingots/gold"
+    }
+  },
+  "result": {
+    "item": "diamantinocraft:teleporter"
+  }
+}

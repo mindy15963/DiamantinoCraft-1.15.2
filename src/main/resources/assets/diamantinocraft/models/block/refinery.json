@@ -1,0 +1,31 @@
+{
+    "parent": "block/cube",
+    "display": {
+        "firstperson_righthand": {
+            "rotation": [
+                0,
+                135,
+                0
+            ],
+            "translation": [
+                0,
+                0,
+                0
+            ],
+            "scale": [
+                0.40,
+                0.40,
+                0.40
+            ]
+        }
+    },
+    "textures": {
+        "particle": "diamantinocraft:block/refinery/front",
+        "down": "diamantinocraft:block/refinery/bottom",
+        "up": "diamantinocraft:block/refinery/top",
+        "north": "diamantinocraft:block/refinery/front",
+        "east": "diamantinocraft:block/refinery/side",
+        "south": "diamantinocraft:block/refinery/back",
+        "west": "diamantinocraft:block/refinery/side"
+    }
+}

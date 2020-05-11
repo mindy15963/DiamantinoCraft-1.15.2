@@ -1,0 +1,19 @@
+{
+    "parent": "block/cube",
+    "display": {
+        "firstperson_righthand": {
+            "rotation": [ 0, 135, 0 ],
+            "translation": [ 0, 0, 0 ],
+            "scale": [ 0.40, 0.40, 0.40 ]
+        }
+    },
+    "textures": {
+        "particle": "diamantinocraft:block/electric_furnace/front",
+        "down": "diamantinocraft:block/electric_furnace/bottom",
+        "up": "diamantinocraft:block/electric_furnace/top",
+        "north": "diamantinocraft:block/electric_furnace/front",
+        "east": "diamantinocraft:block/electric_furnace/side",
+        "south": "diamantinocraft:block/electric_furnace/back",
+        "west": "diamantinocraft:block/electric_furnace/side"
+    }
+}

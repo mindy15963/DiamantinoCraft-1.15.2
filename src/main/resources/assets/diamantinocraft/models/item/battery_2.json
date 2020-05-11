@@ -1,0 +1,7 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "diamantinocraft:item/battery",
+        "layer1": "diamantinocraft:item/battery_gauge_2"
+    }
+}

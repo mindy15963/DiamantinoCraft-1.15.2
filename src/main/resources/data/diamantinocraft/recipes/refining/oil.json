@@ -1,0 +1,17 @@
+{
+    "type": "diamantinocraft:refining",
+    "process_time": 600,
+    "ingredient": {
+        "tag": "forge:oil"
+    },
+    "results": [
+        {
+            "fluid": "diamantinocraft:diesel",
+            "amount": 1000
+        },
+        {
+            "fluid": "diamantinocraft:ethane",
+            "amount": 1000
+        }
+    ]
+}

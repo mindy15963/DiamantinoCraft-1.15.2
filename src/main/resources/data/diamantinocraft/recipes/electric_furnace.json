@@ -1,0 +1,31 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#C#",
+        "/X/",
+        "ODO"
+    ],
+    "key": {
+        "#": {
+            "tag": "forge:ingots/iron"
+        },
+        "/": {
+            "tag": "forge:ingots/redstone_alloy"
+        },
+        "X": {
+            "item": "diamantinocraft:alloy_machine_frame"
+        },
+        "O": {
+            "item": "minecraft:smooth_stone"
+        },
+        "C": {
+            "item": "diamantinocraft:circuit_board"
+        },
+        "D": {
+            "item": "diamantinocraft:heating_element"
+        }
+    },
+    "result": {
+        "item": "diamantinocraft:electric_furnace"
+    }
+}

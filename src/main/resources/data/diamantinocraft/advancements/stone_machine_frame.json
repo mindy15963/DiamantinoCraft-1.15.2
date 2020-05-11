@@ -1,0 +1,26 @@
+{
+    "display": {
+        "icon": {
+            "item": "diamantinocraft:stone_machine_frame"
+        },
+        "title": {
+            "translate": "advancements.diamantinocraft.stone_machine_frame.title"
+        },
+        "description": {
+            "translate": "advancements.diamantinocraft.stone_machine_frame.description"
+        }
+    },
+    "parent": "diamantinocraft:root",
+    "criteria": {
+        "get_item": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "diamantinocraft:stone_machine_frame"
+                    }
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "parent": "block/cube",
+    "display": {
+        "firstperson_righthand": {
+            "rotation": [ 0, 135, 0 ],
+            "translation": [ 0, 0, 0 ],
+            "scale": [ 0.40, 0.40, 0.40 ]
+        }
+    },
+    "textures": {
+        "particle": "diamantinocraft:block/compressor/front_on",
+        "down": "diamantinocraft:block/compressor/bottom",
+        "up": "diamantinocraft:block/compressor/top_on",
+        "north": "diamantinocraft:block/compressor/front_on",
+        "east": "diamantinocraft:block/compressor/side",
+        "south": "diamantinocraft:block/compressor/back",
+        "west": "diamantinocraft:block/compressor/side"
+    }
+}

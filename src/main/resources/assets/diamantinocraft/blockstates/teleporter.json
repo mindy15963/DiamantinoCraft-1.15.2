@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "diamantinocraft:block/teleporter" },
+    "facing=south": { "model": "diamantinocraft:block/teleporter", "y": 180 },
+    "facing=west":  { "model": "diamantinocraft:block/teleporter", "y": 270 },
+    "facing=east":  { "model": "diamantinocraft:block/teleporter", "y": 90 }
+  }
+}

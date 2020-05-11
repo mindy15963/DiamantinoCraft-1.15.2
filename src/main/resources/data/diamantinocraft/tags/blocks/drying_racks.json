@@ -1,0 +1,11 @@
+{
+    "replace": false,
+    "values": [
+        "diamantinocraft:acacia_drying_rack",
+        "diamantinocraft:birch_drying_rack",
+        "diamantinocraft:dark_oak_drying_rack",
+        "diamantinocraft:jungle_drying_rack",
+        "diamantinocraft:oak_drying_rack",
+        "diamantinocraft:spruce_drying_rack"
+    ]
+}

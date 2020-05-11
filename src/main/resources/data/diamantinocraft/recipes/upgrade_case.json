@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "###",
+        "///"
+    ],
+    "key": {
+        "#": {
+            "item": "diamantinocraft:plastic_sheet"
+        },
+        "/": {
+            "tag": "forge:nuggets/gold"
+        }
+    },
+    "result": {
+        "item": "diamantinocraft:upgrade_case",
+        "count": 2
+    }
+}

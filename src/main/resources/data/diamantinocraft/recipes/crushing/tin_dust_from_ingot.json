@@ -1,0 +1,13 @@
+{
+  "type": "diamantinocraft:crushing",
+  "process_time": 200,
+  "ingredient": {
+    "tag": "forge:ingots/tin"
+  },
+  "results": [
+    {
+      "item": "diamantinocraft:tin_dust",
+      "count": 1
+    }
+  ]
+}

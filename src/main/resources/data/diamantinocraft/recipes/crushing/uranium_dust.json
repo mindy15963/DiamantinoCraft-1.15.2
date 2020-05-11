@@ -1,0 +1,18 @@
+{
+    "type": "diamantinocraft:crushing",
+    "process_time": 300,
+    "ingredient": {
+        "item": "diamantinocraft:uranium_chunks"
+    },
+    "results": [
+        {
+            "item": "diamantinocraft:uranium_dust",
+            "count": 1
+        },
+        {
+            "item": "diamantinocraft:uranium_dust",
+            "count": 1,
+            "chance": 0.1
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "display": {
+        "icon": {
+            "item": "diamantinocraft:basic_crusher"
+        },
+        "title": {
+            "translate": "advancements.diamantinocraft.basic_crusher.title"
+        },
+        "description": {
+            "translate": "advancements.diamantinocraft.basic_crusher.description"
+        }
+    },
+    "parent": "diamantinocraft:basic_alloy_smelter",
+    "criteria": {
+        "get_item": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "diamantinocraft:basic_crusher"
+                    }
+                ]
+            }
+        }
+    }
+}

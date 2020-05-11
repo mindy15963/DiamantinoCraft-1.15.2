@@ -1,0 +1,31 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#C#",
+        "/X/",
+        "OHO"
+    ],
+    "key": {
+        "#": {
+            "tag": "forge:ingots/steel"
+        },
+        "/": {
+            "item": "diamantinocraft:canister"
+        },
+        "X": {
+            "item": "diamantinocraft:alloy_machine_frame"
+        },
+        "O": {
+            "tag": "forge:ingots/silver"
+        },
+        "C": {
+            "item": "diamantinocraft:circuit_board"
+        },
+        "H": {
+            "item": "minecraft:iron_bars"
+        }
+    },
+    "result": {
+        "item": "diamantinocraft:solidifier"
+    }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "diamantinocraft:item/canister",
+    "layer1": "diamantinocraft:item/canister_fluid"
+  }
+}

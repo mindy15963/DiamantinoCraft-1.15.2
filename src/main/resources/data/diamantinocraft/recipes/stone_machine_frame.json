@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "/#/",
+    "#s#",
+    "/#/"
+  ],
+  "key": {
+    "/": {
+      "item": "minecraft:smooth_stone"
+    },
+    "#": {
+      "item": "diamantinocraft:black_stone"
+    },
+    "s": {
+      "tag": "forge:ingots/iron"
+    }
+  },
+  "result": {
+    "item": "diamantinocraft:stone_machine_frame"
+  }
+}

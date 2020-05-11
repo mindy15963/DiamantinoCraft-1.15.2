@@ -1,0 +1,13 @@
+{
+  "type": "diamantinocraft:crushing",
+  "process_time": 200,
+  "ingredient": {
+    "tag": "forge:ingots/aluminum_steel"
+  },
+  "results": [
+    {
+      "item": "diamantinocraft:aluminum_steel_dust",
+      "count": 1
+    }
+  ]
+}

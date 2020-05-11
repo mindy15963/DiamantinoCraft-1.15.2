@@ -1,0 +1,26 @@
+{
+    "display": {
+        "icon": {
+            "item": "diamantinocraft:compressor"
+        },
+        "title": {
+            "translate": "advancements.diamantinocraft.compressor.title"
+        },
+        "description": {
+            "translate": "advancements.diamantinocraft.compressor.description"
+        }
+    },
+    "parent": "diamantinocraft:alloy_machine_frame",
+    "criteria": {
+        "get_item": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "diamantinocraft:compressor"
+                    }
+                ]
+            }
+        }
+    }
+}

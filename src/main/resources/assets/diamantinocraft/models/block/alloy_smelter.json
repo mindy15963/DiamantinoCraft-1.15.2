@@ -1,0 +1,19 @@
+{
+    "parent": "block/cube",
+    "display": {
+        "firstperson_righthand": {
+            "rotation": [ 0, 135, 0 ],
+            "translation": [ 0, 0, 0 ],
+            "scale": [ 0.40, 0.40, 0.40 ]
+        }
+    },
+    "textures": {
+        "particle": "diamantinocraft:block/alloy_smelter/front",
+        "down": "diamantinocraft:block/alloy_smelter/bottom",
+        "up": "diamantinocraft:block/alloy_smelter/top",
+        "north": "diamantinocraft:block/alloy_smelter/front",
+        "east": "diamantinocraft:block/alloy_smelter/side",
+        "south": "diamantinocraft:block/alloy_smelter/back",
+        "west": "diamantinocraft:block/alloy_smelter/side"
+    }
+}

@@ -1,0 +1,6 @@
+{
+    "parent": "diamantinocraft:block/drying_rack",
+    "textures": {
+        "wood": "block/spruce_planks"
+    }
+}

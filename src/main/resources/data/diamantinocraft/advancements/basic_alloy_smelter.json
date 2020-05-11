@@ -1,0 +1,26 @@
+{
+    "display": {
+        "icon": {
+            "item": "diamantinocraft:basic_alloy_smelter"
+        },
+        "title": {
+            "translate": "advancements.diamantinocraft.basic_alloy_smelter.title"
+        },
+        "description": {
+            "translate": "advancements.diamantinocraft.basic_alloy_smelter.description"
+        }
+    },
+    "parent": "diamantinocraft:stone_machine_frame",
+    "criteria": {
+        "get_item": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "diamantinocraft:basic_alloy_smelter"
+                    }
+                ]
+            }
+        }
+    }
+}

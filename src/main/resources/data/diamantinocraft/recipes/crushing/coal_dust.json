@@ -1,0 +1,13 @@
+{
+    "type": "diamantinocraft:crushing",
+    "process_time": 200,
+    "ingredient": {
+        "item": "minecraft:coal"
+    },
+    "results": [
+        {
+            "item": "diamantinocraft:coal_dust",
+            "count": 1
+        }
+    ]
+}

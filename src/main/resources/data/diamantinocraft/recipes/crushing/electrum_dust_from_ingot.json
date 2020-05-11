@@ -1,0 +1,13 @@
+{
+  "type": "diamantinocraft:crushing",
+  "process_time": 200,
+  "ingredient": {
+    "tag": "forge:ingots/electrum"
+  },
+  "results": [
+    {
+      "item": "diamantinocraft:electrum_dust",
+      "count": 1
+    }
+  ]
+}

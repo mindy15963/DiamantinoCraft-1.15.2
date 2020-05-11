@@ -1,0 +1,33 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#C#",
+        "/X/",
+        "#B#"
+    ],
+    "key": {
+        "#": {
+            "tag": "forge:ingots/steel"
+        },
+        "/": [
+            {
+                "tag": "forge:nuggets/platinum"
+            },
+            {
+                "tag": "forge:ingots/silver"
+            }
+        ],
+        "X": {
+            "item": "diamantinocraft:alloy_machine_frame"
+        },
+        "B": {
+            "item": "minecraft:bucket"
+        },
+        "C": {
+            "item": "diamantinocraft:circuit_board"
+        }
+    },
+    "result": {
+        "item": "diamantinocraft:diesel_generator"
+    }
+}

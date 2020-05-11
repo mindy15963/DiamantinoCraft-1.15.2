@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "diamantinocraft:upgrade_case"
+        },
+        {
+            "tag": "forge:ingots/electrum"
+        },
+        {
+            "tag": "forge:ingots/electrum"
+        }
+    ],
+    "result": {
+        "item": "diamantinocraft:energy_efficiency_upgrade",
+        "count": 1
+    }
+}

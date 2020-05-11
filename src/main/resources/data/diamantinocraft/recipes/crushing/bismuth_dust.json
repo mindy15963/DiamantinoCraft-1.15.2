@@ -1,0 +1,18 @@
+{
+    "type": "diamantinocraft:crushing",
+    "process_time": 300,
+    "ingredient": {
+        "item": "diamantinocraft:bismuth_chunks"
+    },
+    "results": [
+        {
+            "item": "diamantinocraft:bismuth_dust",
+            "count": 1
+        },
+        {
+            "item": "diamantinocraft:bismuth_dust",
+            "count": 1,
+            "chance": 0.1
+        }
+    ]
+}

@@ -1,0 +1,13 @@
+{
+  "type": "diamantinocraft:crushing",
+  "process_time": 200,
+  "ingredient": {
+    "tag": "forge:ingots/redstone_alloy"
+  },
+  "results": [
+    {
+      "item": "diamantinocraft:redstone_alloy_dust",
+      "count": 1
+    }
+  ]
+}

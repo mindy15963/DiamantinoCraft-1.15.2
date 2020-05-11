@@ -1,0 +1,32 @@
+{
+    "type": "diamantinocraft:alloy_smelting",
+    "process_time": 400,
+    "ingredients": [
+        {
+            "values": [
+                {
+                    "tag": "forge:dusts/copper"
+                },
+                {
+                    "tag": "forge:ingots/copper"
+                }
+            ],
+            "count": 1
+        },
+        {
+            "values": [
+                {
+                    "tag": "forge:dusts/tin"
+                },
+                {
+                    "tag": "forge:ingots/tin"
+                }
+            ],
+            "count": 1
+        }
+    ],
+    "result": {
+        "item": "diamantinocraft:bronze_ingot",
+        "count": 1
+    }
+}

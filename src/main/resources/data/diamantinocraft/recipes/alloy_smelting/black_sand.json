@@ -1,0 +1,34 @@
+{
+  "type": "diamantinocraft:alloy_smelting",
+  "process_time": 600,
+  "ingredients": [
+    {
+      "values": [
+        {
+          "item": "minecraft:coal"
+        }
+      ],
+      "count": 1
+    },
+    {
+      "values": [
+        {
+          "item": "minecraft:sand"
+        }
+      ],
+      "count": 1
+    },
+    {
+      "values": [
+        {
+          "tag": "forge:dusts/coal"
+        }
+      ],
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "diamantinocraft:black_sand",
+    "count": 1
+  }
+}

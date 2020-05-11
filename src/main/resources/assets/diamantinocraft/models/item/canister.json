@@ -1,0 +1,14 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "diamantinocraft:item/canister"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "diamantinocraft:fluid_level": 1
+      },
+      "model": "diamantinocraft:item/canister_filled"
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+{
+    "parent": "diamantinocraft:block/machine_frame",
+    "textures": {
+        "all": "diamantinocraft:block/machine_frame/stone"
+    }
+}

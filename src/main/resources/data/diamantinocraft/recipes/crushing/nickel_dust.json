@@ -1,0 +1,18 @@
+{
+    "type": "diamantinocraft:crushing",
+    "process_time": 300,
+    "ingredient": {
+        "item": "diamantinocraft:nickel_chunks"
+    },
+    "results": [
+        {
+            "item": "diamantinocraft:nickel_dust",
+            "count": 1
+        },
+        {
+            "item": "diamantinocraft:nickel_dust",
+            "count": 1,
+            "chance": 0.1
+        }
+    ]
+}

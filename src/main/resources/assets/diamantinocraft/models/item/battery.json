@@ -1,0 +1,26 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "diamantinocraft:item/battery"
+    },
+    "overrides": [
+        {
+            "predicate": {
+                "diamantinocraft:charge": 0.3
+            },
+            "model": "diamantinocraft:item/battery_1"
+        },
+        {
+            "predicate": {
+                "diamantinocraft:charge": 0.6
+            },
+            "model": "diamantinocraft:item/battery_2"
+        },
+        {
+            "predicate": {
+                "diamantinocraft:charge": 0.9
+            },
+            "model": "diamantinocraft:item/battery_3"
+        }
+    ]
+}

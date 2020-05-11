@@ -1,0 +1,13 @@
+{
+  "type": "diamantinocraft:crushing",
+  "process_time": 200,
+  "ingredient": {
+    "tag": "forge:ingots/signalum"
+  },
+  "results": [
+    {
+      "item": "diamantinocraft:signalum_dust",
+      "count": 1
+    }
+  ]
+}

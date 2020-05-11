@@ -1,0 +1,11 @@
+{
+  "type": "diamantinocraft:solidifying",
+  "process_time": 500,
+  "ingredient": {
+    "tag": "forge:slime"
+  },
+  "result": {
+    "item": "minecraft:slime_block",
+    "count": 1
+  }
+}

@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=north": { "model":  "diamantinocraft:block/birch_drying_rack" },
+        "facing=south": { "model":  "diamantinocraft:block/birch_drying_rack", "y": 180 },
+        "facing=west": { "model":  "diamantinocraft:block/birch_drying_rack", "y": 270 },
+        "facing=east": { "model":  "diamantinocraft:block/birch_drying_rack", "y": 90 }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#B#",
+        "/X/",
+        "L/L"
+    ],
+    "key": {
+        "#": {
+            "tag": "forge:ingots/aluminum"
+        },
+        "/": {
+            "item": "diamantinocraft:wire"
+        },
+        "X": {
+            "item": "diamantinocraft:alloy_machine_frame"
+        },
+        "B": {
+            "item": "diamantinocraft:battery"
+        },
+        "L": {
+            "tag": "forge:ingots/lead"
+        }
+    },
+    "result": {
+        "item": "diamantinocraft:battery_box"
+    }
+}

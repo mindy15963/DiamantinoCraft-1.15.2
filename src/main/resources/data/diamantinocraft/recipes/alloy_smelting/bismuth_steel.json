@@ -1,0 +1,29 @@
+{
+    "type": "diamantinocraft:alloy_smelting",
+    "process_time": 600,
+    "ingredients": [
+        {
+            "values": [
+                {
+                    "tag": "forge:dusts/coal"
+                }
+            ],
+            "count": 1
+        },
+        {
+            "values": [
+                {
+                    "tag": "forge:dusts/bismuth"
+                },
+                {
+                    "tag": "forge:ingots/bismuth"
+                }
+            ],
+            "count": 1
+        }
+    ],
+    "result": {
+        "item": "diamantinocraft:bismuth_steel_ingot",
+        "count": 1
+    }
+}

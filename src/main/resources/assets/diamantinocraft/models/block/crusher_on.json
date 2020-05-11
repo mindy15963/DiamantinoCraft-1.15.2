@@ -1,0 +1,19 @@
+{
+    "parent": "block/cube",
+    "display": {
+        "firstperson_righthand": {
+            "rotation": [ 0, 135, 0 ],
+            "translation": [ 0, 0, 0 ],
+            "scale": [ 0.40, 0.40, 0.40 ]
+        }
+    },
+    "textures": {
+        "particle": "diamantinocraft:block/crusher/front_on",
+        "down": "diamantinocraft:block/crusher/bottom",
+        "up": "diamantinocraft:block/crusher/top",
+        "north": "diamantinocraft:block/crusher/front_on",
+        "east": "diamantinocraft:block/crusher/side",
+        "south": "diamantinocraft:block/crusher/back",
+        "west": "diamantinocraft:block/crusher/side"
+    }
+}

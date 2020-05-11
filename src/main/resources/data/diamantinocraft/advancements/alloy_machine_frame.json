@@ -1,0 +1,26 @@
+{
+    "display": {
+        "icon": {
+            "item": "diamantinocraft:alloy_machine_frame"
+        },
+        "title": {
+            "translate": "advancements.diamantinocraft.alloy_machine_frame.title"
+        },
+        "description": {
+            "translate": "advancements.diamantinocraft.alloy_machine_frame.description"
+        }
+    },
+    "parent": "diamantinocraft:basic_crusher",
+    "criteria": {
+        "get_item": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "diamantinocraft:alloy_machine_frame"
+                    }
+                ]
+            }
+        }
+    }
+}

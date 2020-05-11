@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "/#/",
+    "#s#",
+    "/#/"
+  ],
+  "key": {
+    "/": {
+      "tag": "forge:ingots/redstone_alloy"
+    },
+    "#": {
+      "item": "diamantinocraft:black_stone"
+    },
+    "s": {
+      "tag": "diamantinocraft:ingots/steels"
+    }
+  },
+  "result": {
+    "item": "diamantinocraft:alloy_machine_frame"
+  }
+}

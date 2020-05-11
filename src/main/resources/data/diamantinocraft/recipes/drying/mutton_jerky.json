@@ -1,0 +1,10 @@
+{
+    "type": "diamantinocraft:drying",
+    "process_time": 400,
+    "ingredient": {
+        "item": "minecraft:mutton"
+    },
+    "result": {
+        "item": "diamantinocraft:mutton_jerky"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "type": "diamantinocraft:crushing",
+    "process_time": 300,
+    "ingredient": {
+        "item": "diamantinocraft:bauxite_chunks"
+    },
+    "results": [
+        {
+            "item": "diamantinocraft:aluminum_dust",
+            "count": 1
+        },
+        {
+            "item": "diamantinocraft:aluminum_dust",
+            "count": 1,
+            "chance": 0.1
+        }
+    ]
+}

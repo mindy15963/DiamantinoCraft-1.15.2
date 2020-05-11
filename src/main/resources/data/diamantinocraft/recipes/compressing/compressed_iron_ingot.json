@@ -1,0 +1,10 @@
+{
+    "type": "diamantinocraft:compressing",
+    "process_time": 400,
+    "ingredient": {
+        "tag": "forge:ingots/iron"
+    },
+    "result": {
+        "item": "diamantinocraft:compressed_iron_ingot"
+    }
+}

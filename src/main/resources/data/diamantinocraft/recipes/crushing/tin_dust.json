@@ -1,0 +1,18 @@
+{
+    "type": "diamantinocraft:crushing",
+    "process_time": 300,
+    "ingredient": {
+        "item": "diamantinocraft:tin_chunks"
+    },
+    "results": [
+        {
+            "item": "diamantinocraft:tin_dust",
+            "count": 1
+        },
+        {
+            "item": "diamantinocraft:tin_dust",
+            "count": 1,
+            "chance": 0.1
+        }
+    ]
+}
